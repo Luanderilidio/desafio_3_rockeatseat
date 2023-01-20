@@ -9,6 +9,9 @@ module.exports = {
         Inter: ["Inter", "sans-serif"],
       },
     },
+    gridTemplateRows: {
+      7: "repeat(7, minmax(0, 1fr))",
+    },
   },
   plugins: [],
 };
